@@ -62,3 +62,4 @@ exclude:
 
 # Used for defeating caching
 version: 1
+future: true
