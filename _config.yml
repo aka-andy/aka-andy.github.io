@@ -11,7 +11,6 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: About
     - name: Home
       slug: /
     - name: Work
@@ -21,23 +20,23 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
+      value: dkswognsdi@gmail.com
+      link: mailto:dkswognsdi@gmail.com
+    - name: -
+      value: -
       link: "#"
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
+    - name: -
+      link: -
+      username: -
     - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: https://www.facebook.com/profile.php?id=100007112673441
+    - name: -
+      link: -
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Weibo
-      link: http://weibo.com/u/YourWeiboUsername
+      link: http://github.com/aka-andy
+    - name: -
+      link: -
     - name: RSS
       link: /feed.xml
 
